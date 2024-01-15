@@ -17,7 +17,7 @@ function Page404() {
           navigate('/');
         }}
       >
-        Go to Home
+        Go to Home!!
       </button>
     </div>
   );
